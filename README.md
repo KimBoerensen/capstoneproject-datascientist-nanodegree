@@ -28,11 +28,12 @@ Moreover, the prediction model detecting potential Arvato customers reached an A
 ___
 
 ## File Descriptions
-The repositary contains XYZ files with XYZ folders next to this README file.
+The repositary contains 2 files next to this README file. The provided raw data has not beed added due to legal reasons.
+* Notebook
+* Kaggle submission
 
-A) folder
-* file
-* file
+## Links
+[My Medium Blog Post](https://knboerensen.medium.com/who-are-my-customers-a-bertelsmann-arvato-customer-analysis-8ca318230d7f)
 
 ___
 ## Acknowledgments
