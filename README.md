@@ -1,1 +1,1 @@
-# capstoneproject_datascientist_nanodegree
+# capstoneproject-datascientist-nanodegree
