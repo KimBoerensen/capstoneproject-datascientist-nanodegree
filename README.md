@@ -32,6 +32,9 @@ The repositary contains 2 files next to this README file. The provided raw data 
 * Notebook
 * Kaggle submission
 
+
+___
+
 ## Links
 [My Medium Blog Post](https://knboerensen.medium.com/who-are-my-customers-a-bertelsmann-arvato-customer-analysis-8ca318230d7f)
 
